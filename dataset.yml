@@ -1,0 +1,10 @@
+path: C:\Users\Yosua\Desktop\Kuliah\YOLO-Drowsiness-Detection-main\.ipynb_checkpoints\data
+train: images
+val: images
+#test: 
+
+nc: 19
+names: ['dog','person','cat','tv','car','meatballs','marinara sauce',
+'tomato soup','chicken noodle soup','french onion soup','chicken breast',
+'ribs','pulled pork','hamburger','cavity','Green_Light', 'Speed_Limit',
+'Red_Light', 'Yellow_Light']
